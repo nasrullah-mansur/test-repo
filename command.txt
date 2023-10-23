@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "text here"
+
+
+git config  --global user.name ‘username’ 
+git config --global user.email ‘email’
